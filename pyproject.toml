@@ -1,0 +1,13 @@
+[project]
+name = "distributed_rest"
+version = "0.1.0"
+description = "A project for handling distributed REST API calls with Spark."
+authors = [
+    { name = "N.Roy", email = "nicholas.roy@getinge.com" }
+]
+requires-python = ">=3.8"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"

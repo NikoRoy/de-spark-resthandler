@@ -1,0 +1,8 @@
+
+# Include all Python files
+include *.py
+include src/**/*.py
+
+# Exclude test files
+exclude tests/*
+exclude utils/*
